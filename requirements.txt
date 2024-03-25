@@ -1,0 +1,8 @@
+gym
+Pillow
+tensorflow
+tensorflow-macos
+tensorflow-metal
+utils
+pyvirtualdisplay
+swig
